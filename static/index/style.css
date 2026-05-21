@@ -53,6 +53,12 @@ nav {
     border-bottom: 1px solid var(--border);
 }
 
+.centered-text {
+    text-align: center;
+    align-self: center;
+    padding: 40px;
+}
+
 .nav-logo {
     font-family: 'DM Serif Display', serif;
     font-size: 22px;
